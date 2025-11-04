@@ -29,6 +29,11 @@ epoch = 3.1
 path = 'contracts/Will-Time-Lock.clar'
 clarity_version = 3
 epoch = 3.1
+
+[contracts.Will-Dispute-Resolution]
+path = 'contracts/Will-Dispute-Resolution.clar'
+clarity_version = 3
+epoch = 3.1
 [repl.analysis]
 passes = ['check_checker']
 
